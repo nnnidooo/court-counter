@@ -2,6 +2,8 @@
 
 Made from: https://github.com/udacity/Court-Counter
 
+Since some dependencies were deprecated and it did not work OOTB
+
 License
 Copyright 2015 The Android Open Source Project, Inc.
 
